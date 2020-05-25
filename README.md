@@ -1,2 +1,0 @@
-# shinu
-coursera
